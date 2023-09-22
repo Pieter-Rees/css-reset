@@ -14,4 +14,4 @@ link.href = "reset.css";
 // Append link element to HTML head
 head.appendChild(link);
 
-module.exports = helloWorld;
+module.exports = ModernCssReset;
